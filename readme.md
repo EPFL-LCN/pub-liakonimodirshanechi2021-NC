@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/333422256.svg)](https://zenodo.org/badge/latestdoi/333422256)
+
 This is the (julia) code for the publication:
 
 V. Liakoni *, A. Modirshanechi *, J. Brea, and W. Gerstner
